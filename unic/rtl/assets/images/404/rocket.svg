@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Handcrafted by Saleh Riaz Qureshi - www.salehriaz.com - salehriazq@gmail.com - dribbble.com/salehriaz - behance.net/salehriaz - twitter.com/salehriazq - facebook.com/salehriazqureshi - instagram.com/salehriaz
+
+Please use this SVG with attribution to the author i.e Saleh Riaz
+-->
+
+<svg
+   viewBox="0 0 57.83 41.92"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="rocket.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="13.478054"
+     inkscape:cx="28.935928"
+     inkscape:cy="20.922902"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#5bcbf5;}.cls-2{fill:#ffcb39;}.cls-3{fill:#ff9600;}.cls-4{fill:#007bbd;}.cls-5{fill:#c7f4f9;}.cls-6{fill:#5c546a;}.cls-7{fill:#e87e04;}</style>
+  </defs>
+  <title
+     id="title6">rocket_1</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="matrix(-1,0,0,1,57.811693,0)">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <g
+         id="rocket">
+        <path
+           class="cls-1"
+           d="m 16.31,41.57 a 7.89,7.89 0 0 0 1.91,-1 9.68,9.68 0 0 0 -6,-17.66 10,10 0 0 0 -4.92,1.66 10.1,10.1 0 0 0 -1.63,1.43 13.83,13.83 0 1 1 26.81,6.43 13.67,13.67 0 0 1 -5.35,7 13.41,13.41 0 0 1 -10.82,2.14 z"
+           id="path8" />
+        <path
+           class="cls-2"
+           d="M 57.81,2.35 A 0.92,0.92 0 0 0 57.28,1.57 21.75,21.75 0 0 0 36.75,3.9 C 32.63,6.7 22.38,15.2 12.89,23.65 a 3.69,3.69 0 0 0 -0.59,4.82 l 4.05,5.94 a 3.69,3.69 0 0 0 4.7,1.2 c 11.33,-5.74 23,-12.19 27.1,-15 A 21.75,21.75 0 0 0 57.81,2.35 Z m 0,0"
+           id="path10" />
+        <path
+           class="cls-3"
+           d="m 14.33,31.44 -2,-3 a 3.69,3.69 0 0 1 0.59,-4.82 C 22.38,15.2 32.63,6.7 36.75,3.9 a 21.75,21.75 0 0 1 20.53,-2.33 0.92,0.92 0 0 1 0.37,0.32 v 0 z m 0,0"
+           id="path12" />
+        <path
+           class="cls-1"
+           d="m 44.8,17.34 a 5.52,5.52 0 1 1 1.45,-7.67 5.52,5.52 0 0 1 -1.45,7.67 z m 0,0"
+           id="path14" />
+        <path
+           class="cls-1"
+           d="M 57.28,1.57 A 21.48,21.48 0 0 0 46.46,0.17 l 8.71,12.77 A 21.48,21.48 0 0 0 57.81,2.35 0.92,0.92 0 0 0 57.28,1.57 Z m 0,0"
+           id="path16" />
+        <path
+           class="cls-4"
+           d="M 57.66,1.89 A 0.92,0.92 0 0 0 57.28,1.57 21.48,21.48 0 0 0 46.46,0.17 l 4.35,6.38 z"
+           id="path18" />
+        <path
+           class="cls-5"
+           d="m 44.8,17.34 a 5.52,5.52 0 0 0 1.45,-7.67 l -9.12,6.22 a 5.52,5.52 0 0 0 7.67,1.45 z m 0,0"
+           id="path20" />
+        <path
+           class="cls-6"
+           d="m 36.37,16.41 a 6.44,6.44 0 1 1 9,1.69 6.45,6.45 0 0 1 -9,-1.69 z m 9.12,-6.22 a 4.6,4.6 0 1 0 -1.21,6.39 4.61,4.61 0 0 0 1.21,-6.39 z m 0,0"
+           id="path22" />
+        <g
+           id="flame">
+          <path
+             class="cls-7"
+             d="M 11.39,38.49 C 7.39,41.21 0,41.22 0,41.22 c 0,0 2.33,-6.63 6.7,-9.61 a 4.1632469,4.1632469 0 0 1 4.69,6.88 z"
+             id="path24" />
+          <path
+             class="cls-3"
+             d="m 11.75,36.54 c -2.65,1.81 -7.56,1.81 -7.56,1.81 0,0 1.55,-4.35 4.45,-6.35 a 2.7667354,2.7667354 0 0 1 3.12,4.57 z"
+             id="path26" />
+          <path
+             class="cls-2"
+             d="m 11.72,35.37 c -1.61,1.1 -4.61,1.1 -4.61,1.1 a 9,9 0 0 1 2.71,-3.89 1.683627,1.683627 0 0 1 1.9,2.78 z"
+             id="path28" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
