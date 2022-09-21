@@ -1,10 +1,10 @@
 ::-moz-selection {
-    background-color: #844adb;
+    background-color: #db4a4a;
     color: #fff
 }
 
 ::selection {
-    background-color: #844adb;
+    background-color: #db4a4a;
     color: #fff
 }
 
@@ -41,7 +41,7 @@ h2, h3, h4, h5, h6, li, a {
 }
 
 h2, h3, h4 {
-    color: #844adb
+    color: #db4a4a
 }
 
 h5, h6, p {
@@ -68,7 +68,7 @@ h1 span.bold-text {
 }
 
 h1 span.theme-color {
-    color: #844adb
+    color: #db4a4a
 }
 
 h2 {
@@ -550,7 +550,7 @@ ul li {
 }
 
 .font-primary {
-    color: #844adb !important
+    color: #db4a4a !important
 }
 
 .font-secondary {
@@ -685,7 +685,7 @@ section {
 }
 
 .title.title3 .main-title span {
-    color: #844adb
+    color: #db4a4a
 }
 
 .title.title3 .sub-title {
@@ -774,7 +774,7 @@ section {
     font-size: 27px;
     height: 58px;
     width: 58px;
-    color: #844adb;
+    color: #db4a4a;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -784,8 +784,8 @@ section {
     margin-bottom: 10px;
     -webkit-transition: all 500ms;
     transition: all 500ms;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), color-stop(50%, #844adb), to(#844adb));
-    background-image: linear-gradient(to bottom, transparent 0%, transparent 50%, #844adb 50%, #844adb 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), color-stop(50%, #db4a4a), to(#db4a4a));
+    background-image: linear-gradient(to bottom, transparent 0%, transparent 50%, #db4a4a 50%, #db4a4a 100%);
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: 90px 180px
@@ -813,8 +813,8 @@ section {
     -webkit-transition: 0.5s;
     transition: 0.5s;
     background-color: #fff;
-    border: 2px solid #844adb;
-    color: #844adb !important
+    border: 2px solid #db4a4a;
+    color: #db4a4a !important
 }
 
 .btn-default:focus {
@@ -824,7 +824,7 @@ section {
 
 .btn-default.primary-btn {
     border: 1px solid white;
-    background-color: #844adb
+    background-color: #db4a4a
 }
 
 .btn-default.primary-btn.transparent {
@@ -833,22 +833,22 @@ section {
 
 .btn-default.primary-btn:hover, .btn-default.primary-btn:focus, .btn-default.primary-btn:active {
     background-color: #fff;
-    color: #844adb !important;
-    border: 1px solid #844adb
+    color: #db4a4a !important;
+    border: 1px solid #db4a4a
 }
 
 .btn-default.btn-white {
     -webkit-transition: 0.5s;
     transition: 0.5s;
     background-color: #fff;
-    border: 2px solid #844adb;
-    color: #844adb !important
+    border: 2px solid #db4a4a;
+    color: #db4a4a !important
 }
 
 .btn-default.btn-white:hover, .btn-default.btn-white:focus, .btn-default.btn-white:active {
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    background-color: #844adb;
+    background-color: #db4a4a;
     color: #fff !important;
     border: 2px solid #fff
 }
@@ -929,7 +929,7 @@ section {
 }
 
 .list ul li a.active {
-    color: #844adb
+    color: #db4a4a
 }
 
 .list ul li:first-child {
@@ -961,7 +961,7 @@ section {
 .socials-lists ul li a i {
     height: 50px;
     width: 50px;
-    background-color: #844adb;
+    background-color: #db4a4a;
     border-radius: 50px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -981,8 +981,8 @@ section {
 .socials-lists ul li a:hover i {
     background-position: 0 -90px;
     background-color: #fff;
-    color: #844adb;
-    border: 1px solid #844adb
+    color: #db4a4a;
+    border: 1px solid #db4a4a
 }
 
 .text-hash {
@@ -1095,13 +1095,13 @@ section {
 .team-section .teams .our-team:hover .borders {
     -webkit-transition: all 1s;
     transition: all 1s;
-    border-right: 2px dashed #844adb
+    border-right: 2px dashed #db4a4a
 }
 
 .team-section .teams .our-team:hover h6, .team-section .teams .our-team:hover .e-name {
     -webkit-transition: all 1s;
     transition: all 1s;
-    color: #844adb
+    color: #db4a4a
 }
 
 .team-section .teams:nth-child(even) {
@@ -1168,7 +1168,7 @@ section {
 }
 
 .pricing .price-container .price-features .price-feature.font-primary {
-    color: #844adb
+    color: #db4a4a
 }
 
 .pricing .price-container .price-features .price-feature:last-child {
@@ -1181,7 +1181,7 @@ section {
 
 .pricing .price-container .feature-icon {
     width: auto !important;
-    color: #844adb;
+    color: #db4a4a;
     display: inline-block;
     margin-bottom: 10px;
     margin-top: -12px
@@ -1225,13 +1225,13 @@ section {
 }
 
 .pricing .price-container .price-feature-container .price-value .price .large {
-    color: #844adb;
+    color: #db4a4a;
     font-size: 55px;
     font-weight: 400
 }
 
 .pricing .price-container .price-feature-container .price-value .price .large.font-primary {
-    color: #844adb
+    color: #db4a4a
 }
 
 .pricing .price-container .price-feature-container .set-abs {
@@ -1407,7 +1407,7 @@ section {
 
 .pricing.event .btn-default, .pricing.resume .btn-default {
     padding: 13px 33px;
-    background-color: #844adb
+    background-color: #db4a4a
 }
 
 .pricing.event .btn-default:hover, .pricing.resume .btn-default:hover {
@@ -1488,13 +1488,13 @@ section {
 .screenshot .owl-theme.screenshot-slider .owl-dots .owl-dot.active span {
     width: 39px;
     height: 5px;
-    background: #844adb;
+    background: #db4a4a;
     -webkit-box-shadow: 0 0 4px 1px #e2e2e2;
     box-shadow: 0 0 4px 1px #e2e2e2
 }
 
 .screenshot .owl-theme.screenshot-slider .owl-dots .owl-dot:hover span {
-    background: #844adb;
+    background: #db4a4a;
     -webkit-box-shadow: 0 0 4px 1px #e2e2e2;
     box-shadow: 0 0 4px 1px #e2e2e2
 }
@@ -1519,7 +1519,7 @@ section {
 }
 
 .download .download-img .download-center h5 {
-    color: #844adb;
+    color: #db4a4a;
     text-transform: capitalize;
     margin-bottom: 0
 }
@@ -1666,7 +1666,7 @@ section {
 }
 
 .format .set-border {
-    border-bottom: 2px solid #844adb;
+    border-bottom: 2px solid #db4a4a;
     width: 15px;
     margin-bottom: 30px;
     margin-left: 75px;
@@ -1676,7 +1676,7 @@ section {
 
 .format .set-border:before, .format .set-border:after {
     content: '';
-    border-bottom: 2px solid #844adb;
+    border-bottom: 2px solid #db4a4a;
     position: absolute
 }
 
@@ -1711,7 +1711,7 @@ section {
 
 .format .about-icon .users {
     font-weight: 600;
-    color: #844adb;
+    color: #db4a4a;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0
@@ -1769,7 +1769,7 @@ section {
 .icon-collection .about-icon:hover {
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    background-color: #844adb
+    background-color: #db4a4a
 }
 
 .icon-collection .about-icon:hover a h5, .icon-collection .about-icon:hover a h6, .icon-collection .about-icon:hover a h4 {
@@ -1969,7 +1969,7 @@ section {
 
 .subscribe.subscribe-2 .form-group .icon {
     font-size: 30px;
-    color: #844adb;
+    color: #db4a4a;
     position: absolute;
     left: 50px;
     top: 50%;
@@ -1982,22 +1982,22 @@ section {
 }
 
 .subscribe.subscribe-2 .form-group input::-webkit-input-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.5
 }
 
 .subscribe.subscribe-2 .form-group input::-moz-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.5
 }
 
 .subscribe.subscribe-2 .form-group input:-ms-input-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.5
 }
 
 .subscribe.subscribe-2 .form-group input:-moz-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.5
 }
 
@@ -2136,7 +2136,7 @@ body.menu-on:before {
 
 .copyright {
     padding: 18px 0;
-    background: #844adb
+    background: #db4a4a
 }
 
 .copyright .copyright-text {
@@ -2296,12 +2296,12 @@ body.menu-on:before {
 }
 
 .copyright.resume .link-horizontal ul li a {
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 500
 }
 
 .copyright.resume .link-horizontal.social-link ul li a i {
-    color: #844adb
+    color: #db4a4a
 }
 
 .copyright.resume .copyright-text {
@@ -2327,7 +2327,7 @@ body.menu-on:before {
 }
 
 .copyright.wedding .link-horizontal ul li a {
-    color: #844adb
+    color: #db4a4a
 }
 
 .copyright.light.event {
@@ -3333,7 +3333,7 @@ footer.dark i.white {
 }
 
 footer.dark .form-group i.fa-envelope {
-    color: #844adb !important
+    color: #db4a4a !important
 }
 
 footer.dark.resume i {
@@ -3511,7 +3511,7 @@ footer.bg-light-inner {
 }
 
 .app2 h2, .app2 h3, .app2 h4 {
-    color: #844adb
+    color: #db4a4a
 }
 
 .app2 h5, .app2 h6, .app2 p {
@@ -3563,7 +3563,7 @@ footer.bg-light-inner {
 }
 
 .app2.fixed {
-    background-color: #844adb
+    background-color: #db4a4a
 }
 
 .app2 .title .title-img {
@@ -3633,7 +3633,7 @@ footer.bg-light-inner {
 
 .app2.team .team-slider .team-container .name {
     font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1920 - 300)));
-    color: #844adb;
+    color: #db4a4a;
     letter-spacing: 0;
     margin-bottom: 15px
 }
@@ -4106,8 +4106,8 @@ footer.bg-light-inner {
     height: 62px;
     width: 62px;
     color: #fff;
-    border: 2px solid #844adb;
-    background-color: #844adb
+    border: 2px solid #db4a4a;
+    background-color: #db4a4a
 }
 
 .music.format .link-horizontal ul li a.icon-btn:hover i {
@@ -4374,7 +4374,7 @@ footer.bg-light-inner {
 
 .music.blog .img-container .social-list ul li a i:hover {
     background-color: white;
-    color: #844adb
+    color: #db4a4a
 }
 
 .music .sponsor.bg-music {
@@ -4421,7 +4421,7 @@ footer.bg-light-inner {
 }
 
 .resume h2, .resume h3, .resume h4 {
-    color: #844adb
+    color: #db4a4a
 }
 
 .resume h6, .resume p {
@@ -4430,7 +4430,7 @@ footer.bg-light-inner {
 
 .resume h1 {
     font-size: calc(22px + (70 - 22) * ((100vw - 300px) / (1920 - 300)));
-    color: #844adb;
+    color: #db4a4a;
     margin-top: -20px;
     line-height: normal
 }
@@ -4453,7 +4453,7 @@ footer.bg-light-inner {
 .resume h5 {
     font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1920 - 300)));
     margin-bottom: -2px;
-    color: #844adb
+    color: #db4a4a
 }
 
 .resume h6 {
@@ -4477,7 +4477,7 @@ footer.bg-light-inner {
 
 .resume a {
     font-size: calc(13px + (14 - 13) * ((100vw - 300px) / (1920 - 300)));
-    color: #844adb
+    color: #db4a4a
 }
 
 .resume a:hover {
@@ -4538,19 +4538,19 @@ footer.bg-light-inner {
 }
 
 .resume .radial-bar.radial-bar-primary {
-    background-image: linear-gradient(432deg, #844adb 50%, transparent 50%, transparent), linear-gradient(270deg, #844adb 50%, #e3e3e3 50%, #e3e3e3)
+    background-image: linear-gradient(432deg, #db4a4a 50%, transparent 50%, transparent), linear-gradient(270deg, #db4a4a 50%, #e3e3e3 50%, #e3e3e3)
 }
 
 .resume .radial-bar.radial-90 {
-    background-image: linear-gradient(399deg, #844adb 50%, transparent 50%, transparent), linear-gradient(270deg, #844adb 50%, #e3e3e3 50%, #e3e3e3)
+    background-image: linear-gradient(399deg, #db4a4a 50%, transparent 50%, transparent), linear-gradient(270deg, #db4a4a 50%, #e3e3e3 50%, #e3e3e3)
 }
 
 .resume .radial-bar.radial-80 {
-    background-image: linear-gradient(350deg, #844adb 50%, transparent 50%, transparent), linear-gradient(270deg, #844adb 50%, #e3e3e3 50%, #e3e3e3)
+    background-image: linear-gradient(350deg, #db4a4a 50%, transparent 50%, transparent), linear-gradient(270deg, #db4a4a 50%, #e3e3e3 50%, #e3e3e3)
 }
 
 .resume .radial-bar.radial-70 {
-    background-image: linear-gradient(310deg, #844adb 50%, transparent 50%, transparent), linear-gradient(270deg, #844adb 50%, #e3e3e3 50%, #e3e3e3)
+    background-image: linear-gradient(310deg, #db4a4a 50%, transparent 50%, transparent), linear-gradient(270deg, #db4a4a 50%, #e3e3e3 50%, #e3e3e3)
 }
 
 .resume .radial-bar:after {
@@ -4560,7 +4560,7 @@ footer.bg-light-inner {
     left: 0;
     border-radius: 50%;
     text-align: center;
-    color: #844adb;
+    color: #db4a4a;
     content: attr(data-label);
     background-color: #fff;
     z-index: 1;
@@ -4573,7 +4573,7 @@ footer.bg-light-inner {
 }
 
 .wedding h1, .wedding h2, .wedding h3, .wedding h4, .wedding h5, .wedding h6, .wedding p, .wedding li, .wedding a {
-    color: #844adb
+    color: #db4a4a
 }
 
 .wedding h2, .wedding h3, .wedding h4, .wedding h5, .wedding h6, .wedding li, .wedding a {
@@ -4996,7 +4996,7 @@ footer.bg-light-inner {
 }
 
 .yoga.event .event-container .yoga-circle .month {
-    color: #844adb
+    color: #db4a4a
 }
 
 .yoga.event .event-container .event-info {
@@ -5099,7 +5099,7 @@ footer.bg-light-inner {
 }
 
 .agency h1, .agency h2, .agency h3, .agency h4, .agency h5, .agency h6 {
-    color: #844adb
+    color: #db4a4a
 }
 
 .agency p {
@@ -5151,12 +5151,12 @@ footer.bg-light-inner {
 }
 
 .agency h6.borders-before span:before {
-    border-top: 2px solid #844adb;
+    border-top: 2px solid #db4a4a;
     width: 24px
 }
 
 .agency.fixed {
-    background-color: #844adb
+    background-color: #db4a4a
 }
 
 .agency.fixed .logo-light img {
@@ -5306,8 +5306,8 @@ footer.bg-light-inner {
     height: 68px;
     width: 68px;
     border-radius: 100%;
-    background-image: -webkit-gradient(linear, left top, right top, from(#9647DB), to(#844adb));
-    background-image: linear-gradient(90deg, #9647DB, #844adb)
+    background-image: -webkit-gradient(linear, left top, right top, from(#9647DB), to(#db4a4a));
+    background-image: linear-gradient(90deg, #9647DB, #db4a4a)
 }
 
 .agency .plus-container {
@@ -5376,7 +5376,7 @@ footer.bg-light-inner {
     content: '';
     position: absolute;
     border-radius: 2px;
-    color: #844adb
+    color: #db4a4a
 }
 
 .agency .plus-container .plus:before {
@@ -5567,7 +5567,7 @@ footer.bg-light-inner {
 }
 
 .agency.testimonial .testimonial-container .primary-border {
-    border-bottom: 4px solid #844adb;
+    border-bottom: 4px solid #db4a4a;
     border-radius: 1px;
     width: 33px
 }
@@ -5599,7 +5599,7 @@ footer.bg-light-inner {
 }
 
 .agency.blog .blog-agency .blog-contain .img-container .blog-head {
-    color: #844adb;
+    color: #db4a4a;
     text-transform: none;
     font-weight: 600;
     margin-bottom: 10px;
@@ -5692,7 +5692,7 @@ footer.bg-light-inner {
 
 .agency-content .agency-header-center-container .borders {
     margin-right: 30px;
-    color: #844adb;
+    color: #db4a4a;
     border-right: 2px solid;
     height: 80px
 }
@@ -5839,8 +5839,8 @@ footer.bg-light-inner {
 
 .blog.wedding .btn.btn-blog {
     background: white;
-    border: 1px solid #844adb;
-    color: #844adb;
+    border: 1px solid #db4a4a;
+    color: #db4a4a;
     font-size: 12px;
     margin-left: -60px;
     border-radius: 0;
@@ -5926,7 +5926,7 @@ footer.bg-light-inner {
 }
 
 .contact .bg-white form .form-group label {
-    color: #844adb;
+    color: #db4a4a;
     margin-bottom: 0;
     font-weight: 500
 }
@@ -6049,7 +6049,7 @@ footer.bg-light-inner {
     height: 30px;
     width: 72px;
     border-radius: 14px;
-    background-color: #844adb;
+    background-color: #db4a4a;
     color: #fff
 }
 
@@ -6093,7 +6093,7 @@ footer.bg-light-inner {
 
 .schedule .scrollbar::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    background-color: #844adb;
+    background-color: #db4a4a;
     padding: 5px
 }
 
@@ -6303,7 +6303,7 @@ footer.bg-light-inner {
 }
 
 .testimonial.wedding .testimonial-info .testimonial-para {
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 200
 }
 
@@ -6378,7 +6378,7 @@ footer.bg-light-inner {
 }
 
 .saas1 span.theme-color {
-    color: #844adb
+    color: #db4a4a
 }
 
 .saas1 .title img {
@@ -6395,7 +6395,7 @@ footer.bg-light-inner {
 .saas1 .title hr {
     width: 116px;
     height: 2px;
-    background-color: #844adb;
+    background-color: #db4a4a;
     margin-top: 20px;
     margin-bottom: 20px
 }
@@ -6442,7 +6442,7 @@ footer.bg-light-inner {
 .saas1.header .header-sub-text h3 span {
     font-size: 30px;
     font-weight: 600;
-    color: #844adb
+    color: #db4a4a
 }
 
 .saas1.header h6 {
@@ -6454,15 +6454,15 @@ footer.bg-light-inner {
 .saas1.header h6 span {
     font-size: 18px;
     font-weight: 600;
-    color: #844adb
+    color: #db4a4a
 }
 
 .saas1.header .btn-default {
-    background-color: #844adb;
+    background-color: #db4a4a;
     color: #fff !important;
     padding: 10px 15px;
     text-transform: uppercase;
-    border: 1px solid #844adb;
+    border: 1px solid #db4a4a;
     font-weight: 300
 }
 
@@ -6583,12 +6583,12 @@ footer.bg-light-inner {
 }
 
 .saas1.build-bg .owl-theme .owl-dots .owl-dot.active span {
-    background-color: #844adb;
+    background-color: #db4a4a;
     width: 95px
 }
 
 .saas1.build-bg .owl-theme .owl-dots .owl-dot.active:before {
-    color: #844adb
+    color: #db4a4a
 }
 
 .saas1.build-bg .owl-theme .owl-dots .owl-dot span {
@@ -6746,7 +6746,7 @@ footer.bg-light-inner {
 
 .saas1.pricing .pricing__switcher span {
     font-weight: 600;
-    color: #844adb;
+    color: #db4a4a;
     margin-left: 5px;
     text-transform: uppercase;
     -webkit-transition: all 0.3s;
@@ -6773,7 +6773,7 @@ footer.bg-light-inner {
 .saas1.pricing .switcher__border {
     height: 60px;
     width: 50%;
-    background-color: #844adb;
+    background-color: #db4a4a;
     display: block;
     position: absolute;
     top: 0;
@@ -7058,8 +7058,8 @@ footer.bg-light-inner {
 }
 
 .saas1.subscribe input[type="submit"] {
-    background-color: #844adb;
-    border: solid #844adb;
+    background-color: #db4a4a;
+    border: solid #db4a4a;
     color: #fff;
     margin-left: -50px;
     height: 57px;
@@ -7253,7 +7253,7 @@ footer.bg-light-inner {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: #844adb;
+    background: #db4a4a;
     border-radius: 50px
 }
 
@@ -7285,7 +7285,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .saas2 h2, .saas2 h3, .saas2 h4, .saas2 h5 {
-    color: #844adb
+    color: #db4a4a
 }
 
 .saas2 h1 {
@@ -7741,7 +7741,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .event.fixed {
-    background-color: #844adb;
+    background-color: #db4a4a;
     padding: 0
 }
 
@@ -7761,7 +7761,7 @@ header.ecommerce .responsive-btn i {
     height: 26px;
     width: 26px;
     background-color: #fff;
-    border: 3px solid #844adb;
+    border: 3px solid #db4a4a;
     border-radius: 100%;
     left: 0;
     right: 0;
@@ -7773,7 +7773,7 @@ header.ecommerce .responsive-btn i {
     position: absolute;
     height: 60px;
     width: 4px;
-    background: #844adb;
+    background: #db4a4a;
     top: -63px;
     left: 0;
     right: 0;
@@ -7789,7 +7789,7 @@ header.ecommerce .responsive-btn i {
     padding: 8px;
     margin: 2px;
     border-radius: 100%;
-    background-color: #844adb
+    background-color: #db4a4a
 }
 
 .event.bg-img {
@@ -7889,7 +7889,7 @@ header.ecommerce .responsive-btn i {
 
 .event.speaker .team-img .social ul li a i:hover {
     background-color: white;
-    color: #844adb
+    color: #db4a4a
 }
 
 .event.blog .img-container {
@@ -7969,7 +7969,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .gym h2, .gym h3, .gym h4 {
-    color: #844adb
+    color: #db4a4a
 }
 
 .gym h5, .gym h6, .gym p {
@@ -8008,7 +8008,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .gym.fixed {
-    background-color: #844adb;
+    background-color: #db4a4a;
     padding: 0;
     border-bottom: 1px solid #ddd
 }
@@ -8335,22 +8335,22 @@ header.ecommerce .responsive-btn i {
 }
 
 .login-modal .form-group input::-webkit-input-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.7
 }
 
 .login-modal .form-group input::-moz-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.7
 }
 
 .login-modal .form-group input:-ms-input-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.7
 }
 
 .login-modal .form-group input:-moz-placeholder {
-    color: #844adb;
+    color: #db4a4a;
     opacity: 0.7
 }
 
@@ -8376,7 +8376,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .login-modal .nav-pills .nav-link.active {
-    color: #844adb;
+    color: #db4a4a;
     border-bottom: 2px solid;
     border-radius: 0
 }
@@ -8387,7 +8387,7 @@ header.ecommerce .responsive-btn i {
     top: 16px;
     background: #f5f5f5;
     opacity: 1;
-    color: #844adb;
+    color: #db4a4a;
     z-index: 2
 }
 
@@ -8423,7 +8423,7 @@ header.ecommerce .responsive-btn i {
     display: inline-block;
     width: 100%;
     height: 100%;
-    background: #844adb;
+    background: #db4a4a;
     -webkit-transform: scale(0);
     transform: scale(0);
     -webkit-transform-origin: center center;
@@ -8585,7 +8585,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .speaker .employee .post {
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 400;
     letter-spacing: 0.5px
 }
@@ -8596,7 +8596,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .gym .trainers-slider.owl-carousel .owl-dots .owl-dot.active span, .gym .trainers-slider.owl-carousel .owl-dots .owl-dot:hover span, .yoga .trainers-slider.owl-carousel .owl-dots .owl-dot.active span, .yoga .trainers-slider.owl-carousel .owl-dots .owl-dot:hover span, .creative .trainers-slider.owl-carousel .owl-dots .owl-dot.active span, .creative .trainers-slider.owl-carousel .owl-dots .owl-dot:hover span {
-    background: #844adb
+    background: #db4a4a
 }
 
 .gym .trainers-slider.owl-carousel .owl-item .trainers-info, .yoga .trainers-slider.owl-carousel .owl-item .trainers-info, .creative .trainers-slider.owl-carousel .owl-item .trainers-info {
@@ -8664,7 +8664,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .breadcrumb-section.bredcrumb-color {
-    background: #844adb
+    background: #db4a4a
 }
 
 .breadcrumb-section.breadcrumb-gradient {
@@ -9101,7 +9101,7 @@ header.ecommerce .responsive-btn i {
 .blog-sidebar .blog-title {
     position: relative;
     text-transform: uppercase;
-    color: #844adb;
+    color: #db4a4a;
     margin-bottom: 30px;
     padding-bottom: 15px;
     letter-spacing: 1px;
@@ -9111,7 +9111,7 @@ header.ecommerce .responsive-btn i {
 
 .blog-sidebar .blog-title:before {
     content: '';
-    border-bottom: 4px solid #844adb;
+    border-bottom: 4px solid #db4a4a;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -9651,12 +9651,12 @@ header.ecommerce .responsive-btn i {
 
 .filter-section .filter-container ul.filter>li>a:hover, .filter-section .filter-container ul.filter>li>a:focus {
     text-decoration: none;
-    color: #844adb;
+    color: #db4a4a;
     outline: none
 }
 
 .filter-section .filter-container ul.filter>li.active {
-    background-color: #844adb
+    background-color: #db4a4a
 }
 
 .filter-section .filter-container ul.filter>li.active a {
@@ -9780,7 +9780,7 @@ header.ecommerce .responsive-btn i {
     background-color: #fff;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    color: #844adb;
+    color: #db4a4a;
     font-size: 22px;
     display: none;
     -webkit-transition: all 0.4s ease;
@@ -9851,7 +9851,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .portfolio-section .filter-button.active {
-    background-color: #844adb;
+    background-color: #db4a4a;
     color: #fff
 }
 
@@ -10056,7 +10056,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .pagination_sec ul li a {
-    color: #844adb;
+    color: #db4a4a;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -10074,7 +10074,7 @@ header.ecommerce .responsive-btn i {
 .pagination_sec ul li a.active, .pagination_sec ul li a:hover {
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    background: #844adb;
+    background: #db4a4a;
     color: #eceaea
 }
 
@@ -10139,7 +10139,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .single_blog_item .blog-text .blog-description h5.pull-right i {
-    color: #844adb
+    color: #db4a4a
 }
 
 .page-header-comment {
@@ -10180,7 +10180,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .blog_comment.comment-list .comment_sec .blog_center .blog_user .panel-body .link-btn {
-    color: #844adb;
+    color: #db4a4a;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     float: right
@@ -10202,7 +10202,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .blog_comment.comment-list .comment_sec .blog_center .blog_user .panel-body .right:hover {
-    color: #844adb
+    color: #db4a4a
 }
 
 .blog_comment.comment-list .comment_sec .blog_center .blog_user .panel-body .text-left {
@@ -10241,7 +10241,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .blog_comment.comment-list .comment_sec .blog_center .blog_user .panel-body .text-left .comment-user i {
-    color: #844adb;
+    color: #db4a4a;
     margin-right: 5px
 }
 
@@ -10264,7 +10264,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .blog_comment.comment-list .comment_sec .blog_center .blog_user .panel-body .text-left .comment-date i {
-    color: #844adb;
+    color: #db4a4a;
     margin-right: 5px
 }
 
@@ -10688,7 +10688,7 @@ header.ecommerce .responsive-btn i {
 .cart-section .cart-table thead th, .wishlist-section .cart-table thead th {
     border-bottom-width: 1px;
     font-weight: 700;
-    color: #844adb;
+    color: #db4a4a;
     text-transform: uppercase;
     font-size: 14px;
     border-top: 0;
@@ -10723,12 +10723,12 @@ header.ecommerce .responsive-btn i {
 }
 
 .cart-section tbody tr td .td-color, .wishlist-section tbody tr td .td-color {
-    color: #844adb
+    color: #db4a4a
 }
 
 .cart-section tbody tr td h2, .wishlist-section tbody tr td h2 {
     font-size: 24px;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 400
 }
 
@@ -10803,7 +10803,7 @@ header.ecommerce .responsive-btn i {
 
 .collection .collection-block .collection-content h3 {
     margin-bottom: 20px;
-    color: #844adb;
+    color: #db4a4a;
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 0.05em
@@ -10833,7 +10833,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .checkout-page .checkout-title h3 {
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 700
 }
 
@@ -10874,7 +10874,7 @@ header.ecommerce .responsive-btn i {
 
 .checkout-page .checkout-form .form-group .field-label span {
     font-size: calc(14px + (16 - 14) * ((100vw - 300px) / (1920 - 300)));
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 600
 }
 
@@ -10938,7 +10938,7 @@ header.ecommerce .responsive-btn i {
 .order-box .title-box {
     position: relative;
     padding-bottom: 25px;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 600;
     font-size: calc(18px + (22 - 18) * ((100vw - 300px) / (1920 - 300)));
     border-bottom: 1px solid #eceaea;
@@ -10997,7 +10997,7 @@ header.ecommerce .responsive-btn i {
     position: relative;
     font-size: 18px;
     line-height: 20px;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 400;
     width: 35%;
     float: right
@@ -11036,7 +11036,7 @@ header.ecommerce .responsive-btn i {
     position: relative;
     font-size: 18px;
     line-height: 20px;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 400
 }
 
@@ -11134,7 +11134,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .collection-filter-block .product-service .media svg path {
-    fill: #844adb
+    fill: #db4a4a
 }
 
 .collection-filter-block .product-service .media .media-body {
@@ -11456,7 +11456,7 @@ header.ecommerce .responsive-btn i {
 .theme-card .offer-slider .media .media-body h4 {
     margin-top: 10px;
     font-weight: 700;
-    color: #844adb;
+    color: #db4a4a;
     margin-bottom: 0
 }
 
@@ -11536,7 +11536,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-accordion .btn-link {
-    color: #844adb
+    color: #db4a4a
 }
 
 .product-accordion .btn-link:hover {
@@ -11615,7 +11615,7 @@ header.ecommerce .responsive-btn i {
     -ms-user-select: none;
     user-select: none;
     text-transform: capitalize;
-    color: #844adb
+    color: #db4a4a
 }
 
 .bundle .theme_checkbox label input {
@@ -11827,7 +11827,7 @@ header.ecommerce .responsive-btn i {
 
 .collection-product-wrapper .product-top-filter .popup-filter .sidebar-popup a {
     font-size: 16px;
-    color: #844adb
+    color: #db4a4a
 }
 
 .collection-product-wrapper .product-top-filter .popup-filter .sidebar-popup .collection-filter {
@@ -12000,7 +12000,7 @@ header.ecommerce .responsive-btn i {
 
 .product-box .product-detail h4, .product-box .product-info h4, .product-wrap .product-detail h4, .product-wrap .product-info h4 {
     font-size: 18px;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 600;
     margin-bottom: 0;
     -webkit-transition: all 0.5s ease;
@@ -12041,11 +12041,11 @@ header.ecommerce .responsive-btn i {
 }
 
 .image-swatch li.active img {
-    border: 1px solid #844adb
+    border: 1px solid #db4a4a
 }
 
 .image-swatch li:hover img {
-    border: 1px solid #844adb;
+    border: 1px solid #db4a4a;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease
 }
@@ -12082,7 +12082,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .tab-product .nav-material.nav-tabs .nav-item .material-border, .product-full-tab .nav-material.nav-tabs .nav-item .material-border {
-    border-bottom: 2px solid #844adb;
+    border-bottom: 2px solid #db4a4a;
     opacity: 0
 }
 
@@ -12091,7 +12091,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .tab-product .nav-material.nav-tabs .nav-link.active, .product-full-tab .nav-material.nav-tabs .nav-link.active {
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 600
 }
 
@@ -12134,7 +12134,7 @@ header.ecommerce .responsive-btn i {
 
 .tab-product .title, .product-full-tab .title {
     padding-right: 45px;
-    color: #844adb;
+    color: #db4a4a;
     padding-bottom: 20px
 }
 
@@ -12194,7 +12194,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .tab-product .product-box .cart-info a, .tab-product .product-box .cart-info button, .product-full-tab .product-box .cart-info a, .product-full-tab .product-box .cart-info button {
-    color: #844adb;
+    color: #db4a4a;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
     background-color: #fff;
@@ -12223,7 +12223,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .tab-product .product-box .lbl-1, .product-full-tab .product-box .lbl-1 {
-    background-color: #844adb;
+    background-color: #db4a4a;
     padding: 2px 20px 2px 10px;
     display: inline-block;
     text-align: center;
@@ -12243,8 +12243,8 @@ header.ecommerce .responsive-btn i {
     top: 0;
     width: 0;
     height: 0;
-    border-top: 12px solid #844adb;
-    border-bottom: 13px solid #844adb;
+    border-top: 12px solid #db4a4a;
+    border-bottom: 13px solid #db4a4a;
     border-right: 7px solid #fff
 }
 
@@ -12308,7 +12308,7 @@ header.ecommerce .responsive-btn i {
 .tab-product .product-box .product-details .price, .product-full-tab .product-box .product-details .price {
     padding-bottom: 10px;
     font-size: 16px;
-    color: #844adb
+    color: #db4a4a
 }
 
 .qty-box .input-group {
@@ -12343,7 +12343,7 @@ header.ecommerce .responsive-btn i {
 
 .qty-box .input-group button i {
     font-weight: 900;
-    color: #844adb
+    color: #db4a4a
 }
 
 .qty-box .input-group .icon {
@@ -12422,7 +12422,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-right .product-title {
-    color: #844adb;
+    color: #db4a4a;
     text-transform: capitalize;
     font-weight: 700;
     margin-top: 10px;
@@ -12445,7 +12445,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-right h3 {
-    color: #844adb;
+    color: #db4a4a;
     margin-bottom: 15px
 }
 
@@ -12460,7 +12460,7 @@ header.ecommerce .responsive-btn i {
 
 .product-right h4 span {
     padding-left: 5px;
-    color: #844adb
+    color: #db4a4a
 }
 
 .product-right .color-variant {
@@ -12529,7 +12529,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-right .size-box ul li a {
-    color: #844adb;
+    color: #db4a4a;
     font-size: 18px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -12563,7 +12563,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-right .product-icon .product-social li a {
-    color: #844adb;
+    color: #db4a4a;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease
 }
@@ -12573,7 +12573,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-right .product-icon .product-social li a:hover {
-    color: #844adb
+    color: #db4a4a
 }
 
 .product-right .product-icon .product-social li:last-child {
@@ -12600,7 +12600,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-right .product-icon .wishlist-btn:hover i {
-    color: #844adb;
+    color: #db4a4a;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease
 }
@@ -12656,7 +12656,7 @@ header.ecommerce .responsive-btn i {
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
     width: 100%;
-    color: #844adb
+    color: #db4a4a
 }
 
 .product-box, .product-wrap {
@@ -12725,7 +12725,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-box .img-block .lable-wrapper .lable1, .product-wrap .img-block .lable-wrapper .lable1 {
-    background-color: #844adb;
+    background-color: #db4a4a;
     color: #fff;
     border-bottom-left-radius: 25px;
     border-top-left-radius: 25px
@@ -12804,14 +12804,14 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-box .img-wrapper .cart-box i:hover, .product-wrap .img-wrapper .cart-box i:hover {
-    color: #844adb;
+    color: #db4a4a;
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease
 }
 
 .product-box .img-wrapper .lable-block .lable3, .product-wrap .img-wrapper .lable-block .lable3 {
     border-radius: 100%;
-    background-color: #844adb;
+    background-color: #db4a4a;
     text-align: center;
     font-size: 14px;
     font-weight: 700;
@@ -12900,7 +12900,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-box .cart-info i:hover, .product-box .cart-wrap i:hover, .product-wrap .cart-info i:hover, .product-wrap .cart-wrap i:hover {
-    color: #844adb
+    color: #db4a4a
 }
 
 .product-box .cart-detail, .product-wrap .cart-detail {
@@ -12960,7 +12960,7 @@ header.ecommerce .responsive-btn i {
 
 .product-box .product-detail h4, .product-box .product-info h4, .product-wrap .product-detail h4, .product-wrap .product-info h4 {
     font-size: 18px;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 600;
     margin-bottom: 0;
     -webkit-transition: all 0.5s ease;
@@ -13001,13 +13001,13 @@ header.ecommerce .responsive-btn i {
 }
 
 .product-box .product-info .add-btn i, .product-wrap .product-info .add-btn i {
-    color: #844adb
+    color: #db4a4a
 }
 
 .product-box .product-info .add-btn .btn-outline, .product-wrap .product-info .add-btn .btn-outline {
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease;
-    color: #844adb
+    color: #db4a4a
 }
 
 .product-box .product-info .add-btn .btn-outline:hover, .product-wrap .product-info .add-btn .btn-outline:hover {
@@ -13271,7 +13271,7 @@ header.ecommerce .responsive-btn i {
 
 .product-pagination .pagination .page-item.active a {
     color: #fff;
-    background-color: #844adb;
+    background-color: #db4a4a;
     border-color: #ddd
 }
 
@@ -13355,7 +13355,7 @@ header.ecommerce .responsive-btn i {
     padding-bottom: 5px;
     margin-bottom: 15px;
     font-size: 18px;
-    color: #844adb;
+    color: #db4a4a;
     text-transform: capitalize
 }
 
@@ -13397,7 +13397,7 @@ header.ecommerce .responsive-btn i {
     position: relative;
     width: 50px;
     height: 50px;
-    background-color: #844adb;
+    background-color: #db4a4a;
     border-radius: 50%
 }
 
@@ -13438,7 +13438,7 @@ header.ecommerce .responsive-btn i {
 .login-page h3 {
     margin-bottom: 20px;
     text-transform: uppercase;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 700;
     margin-top: -5px
 }
@@ -13451,7 +13451,7 @@ header.ecommerce .responsive-btn i {
 
 .login-page .theme-card .theme-form label {
     text-transform: capitalize;
-    color: #844adb;
+    color: #db4a4a;
     font-size: 14px;
     font-weight: 600
 }
@@ -13470,7 +13470,7 @@ header.ecommerce .responsive-btn i {
 
 .login-page .authentication-right h6 {
     text-transform: uppercase;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 600;
     margin-bottom: 20px
 }
@@ -13498,7 +13498,7 @@ header.ecommerce .responsive-btn i {
 .register-page h3 {
     margin-bottom: 20px;
     text-transform: uppercase;
-    color: #844adb;
+    color: #db4a4a;
     font-weight: 700;
     margin-top: -5px
 }
@@ -13511,7 +13511,7 @@ header.ecommerce .responsive-btn i {
 
 .register-page .theme-card .theme-form label {
     text-transform: capitalize;
-    color: #844adb;
+    color: #db4a4a;
     font-size: 14px;
     font-weight: 600
 }
@@ -13771,7 +13771,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .title.title2.title-inner .borders span:before, .title.title2.title-inner .borders span:after {
-    border-color: #844adb;
+    border-color: #db4a4a;
     opacity: 0.6
 }
 
@@ -13999,7 +13999,7 @@ header.ecommerce .responsive-btn i {
     display: inline-block;
     padding: 5px 8px;
     margin-left: 10px;
-    background-color: #844adb;
+    background-color: #db4a4a;
     height: 40px;
     width: 40px;
     border-radius: 100%
@@ -14404,7 +14404,7 @@ header.resume .e-btn i {
 }
 
 header.wedding .responsive-btn i {
-    color: #844adb !important
+    color: #db4a4a !important
 }
 
 header.ecommerce {
@@ -14640,7 +14640,7 @@ header nav ul ul li a {
 }
 
 header nav ul ul li a:hover {
-    color: #844adb !important;
+    color: #db4a4a !important;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease
 }
@@ -14676,7 +14676,7 @@ header nav ul .mega-menu .mega-menu-container ul {
 
 header nav .menu-head {
     margin-bottom: 10px;
-    color: #844adb;
+    color: #db4a4a;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -14709,7 +14709,7 @@ header.wedding .logo-abs {
 
 header.wedding.header-rel {
     background-color: rgba(255, 255, 255, 0.75);
-    border-bottom: 1px dashed #844adb
+    border-bottom: 1px dashed #db4a4a
 }
 
 header.yoga .logo-abs {
@@ -14734,7 +14734,7 @@ header.portfolio-metro nav ul li>a:hover {
 }
 
 header.wedding nav ul li>a:hover {
-    color: #844adb
+    color: #db4a4a
 }
 
 header.dark {
@@ -14805,13 +14805,13 @@ footer.saas1 h5 {
 .color-animated {
     -webkit-animation: color-change 1s infinite;
     animation: color-change 1s infinite;
-    color: #844adb;
+    color: #db4a4a;
     margin-left: 10px
 }
 
 @-webkit-keyframes color-change {
     0% {
-        color: #844adb
+        color: #db4a4a
     }
 
     50% {
@@ -14825,7 +14825,7 @@ footer.saas1 h5 {
 
 @keyframes color-change {
     0% {
-        color: #844adb
+        color: #db4a4a
     }
 
     50% {
@@ -20737,7 +20737,7 @@ body.dark .icon-collection .about-icon a img {
     }
 
     .dropbtn {
-        color: #844adb
+        color: #db4a4a
     }
 
     .dropbtn>i {
@@ -20965,7 +20965,7 @@ body.dark .icon-collection .about-icon a img {
     header nav ul li a {
         width: 100%;
         text-align: left;
-        color: #844adb;
+        color: #db4a4a;
         padding: 12px 18px
     }
 
@@ -21399,27 +21399,27 @@ body.dark .icon-collection .about-icon a img {
     }
 
     header.app1 nav ul li>a:hover {
-        color: #844adb
+        color: #db4a4a
     }
 
     header.app2 nav ul li>a:hover {
-        color: #844adb
+        color: #db4a4a
     }
 
     header.event nav ul li>a:hover {
-        color: #844adb
+        color: #db4a4a
     }
 
     header.music nav ul li>a:hover {
-        color: #844adb
+        color: #db4a4a
     }
 
     header.wedding nav ul li>a:hover {
-        color: #844adb
+        color: #db4a4a
     }
 
     header.yoga nav ul li>a:hover {
-        color: #844adb
+        color: #db4a4a
     }
 
     .header .bg {
@@ -21467,7 +21467,7 @@ body.dark .icon-collection .about-icon a img {
 
     .header ul li a i {
         font-size: 25px;
-        color: #844adb;
+        color: #db4a4a;
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -23952,7 +23952,7 @@ body.dark .icon-collection .about-icon a img {
     }
 
     .agency.header .bg {
-        background: #844adb
+        background: #db4a4a
     }
 
     .agency.header h1 {
@@ -24061,7 +24061,7 @@ body.dark .icon-collection .about-icon a img {
     }
 
     .agency.testimonial-bg {
-        background: #844adb
+        background: #db4a4a
     }
 
     .agency.speaker .team-img .social ul li {
@@ -24374,7 +24374,7 @@ body.dark .icon-collection .about-icon a img {
     }
 
     .product-pagination .pagination {
-        border-color: #844adb
+        border-color: #db4a4a
     }
 
     .collection-product-wrapper .pagination_sec {

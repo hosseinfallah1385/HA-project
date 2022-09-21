@@ -6,7 +6,7 @@
      *************************/
   $(function () {
     $(".typed").typed({
-      strings: ["یونیک"],
+      strings: ["WebXor"],
       stringsElement: null,
       rtl: true,
       typeSpeed: 120,
