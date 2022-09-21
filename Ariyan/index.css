@@ -17,7 +17,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: textclip 2s linear infinite;
-      font-size: 45px;
+      font-size: 25px;
       text-align: center;
 }
 @keyframes textclip {
@@ -35,23 +35,23 @@ hr{
     width: 50%;
   }
   .gmail1{
-    font-size: small;
+    font-size: 15px;
     text-align: center;
     color: aqua;
   }
   .gmail{
-   font-size: 50px;
+   font-size: 25px;
     margin: center;
     text-align: center;
   }
   #ex{
-    font-size: 45px;
+    font-size: 20px;
     text-align: center;
     color: red;
     text-decoration: none;
   }
   .welcome{
-    font-size: 60px;
+    font-size: 25px;
     color: green;
     text-decoration: none;
   }
@@ -90,7 +90,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 100px;
+  font-size: 50px;
 }
 
 .navbar a:hover {
